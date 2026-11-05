@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-marketplace-channels-dart-mobile",
+  "capabilityKey": "planned:ecommerce:marketplace-channels",
+  "presentation": "dart-mobile",
+  "package": "module_ecommerce_marketplace_channels_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/ecommerce/nextjs/marketplace-channels.md",
+  "presentationPlan": "projects/ecommerce/features/marketplace-channels.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
